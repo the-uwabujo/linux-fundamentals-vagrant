@@ -45,6 +45,11 @@ File Permission Changed (chown)
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/9e9b4ff5-c2ed-4f42-98b6-44f2bff88a33" />
 
+File Permission Changed (chmod) user has full access "Read,write & execute"
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/01095d4a-200f-4d3a-bf51-23a662b85978" />
+
+
 
 
 
