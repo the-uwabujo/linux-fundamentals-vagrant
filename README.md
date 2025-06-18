@@ -37,3 +37,10 @@ This image shows the folder structure.
 
 **4. Manage File Permissions and Ownership**
 
+File created with default permission
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/5a5fd582-a697-4f58-971c-0cc12ad9a8a4" />
+
+
+
+
