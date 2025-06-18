@@ -51,7 +51,8 @@ File Permission Changed (chmod) user has full access "Read,write & execute"
 
 **5. Install and Configure a Package**
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/c8dc59be-2c8c-4f65-ac87-e3a8eb9f7bdf" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/835429bd-58ed-4143-b9b7-5260d560f831" />
+
 
 
 
