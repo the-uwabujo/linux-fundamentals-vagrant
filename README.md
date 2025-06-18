@@ -16,4 +16,8 @@ Memory and CPU limits
 and automatically import it into the virtualbox.
 # login Process
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/00eb5a34-223a-4a86-85bd-8b3e15419a1e" />
+Vagrant uses SSH to log into the virtual machine.
+
+When you run:
+vagrant ssh
 
