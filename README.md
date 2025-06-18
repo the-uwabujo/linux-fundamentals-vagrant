@@ -1,6 +1,6 @@
 # linux-fundamentals-vagrant
 
-# Vagrant init
+**2. Set Up a Vagrant Server**
 
 <img width="960" alt="vagrant_init" src="https://github.com/user-attachments/assets/0b7fcab4-469f-480e-b7ee-2adad59027fe" />
 
@@ -22,7 +22,8 @@ When you run:
 vagrant ssh
 You are login automatically without providing username or password.
 
-3. 
+**3. Explore the Linux File System**
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/60aa27bd-bca4-4d94-886f-24a0a617249b" />
 This image shows the folder structure.
 
@@ -33,4 +34,6 @@ This image shows the folder structure.
 /home/vagrant/projects = Project diectory created
 
 /home/vagrant/projects/devOps = is the sub-directory created inside projects directory.
+
+**4. Manage File Permissions and Ownership**
 
