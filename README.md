@@ -39,7 +39,8 @@ This image shows the folder structure.
 
 File created with default permission
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/5a5fd582-a697-4f58-971c-0cc12ad9a8a4" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/f172d284-13f3-42da-af42-05f79b0c1a65" />
+
 
 
 
