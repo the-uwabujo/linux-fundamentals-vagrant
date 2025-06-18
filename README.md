@@ -53,6 +53,13 @@ File Permission Changed (chmod) user has full access "Read,write & execute"
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/835429bd-58ed-4143-b9b7-5260d560f831" />
 
+**6. Test Remote Connectivity**
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/102f16d3-7676-474e-b17d-1d21f0ea566a" />
+
+The output shows that google dns is reachable, this means there is internet connectivity on the machine.
+
+
 
 
 
