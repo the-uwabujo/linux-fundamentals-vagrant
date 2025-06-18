@@ -25,8 +25,12 @@ You are login automatically without providing username or password.
 3. 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/60aa27bd-bca4-4d94-886f-24a0a617249b" />
 This image shows the folder structure.
+
 /home = parent folder for all user home directories
+
 /home/vagrant = the home directory for the vagrant user
+
 /home/vagrant/projects = Project diectory created
+
 /home/vagrant/projects/devOps = is the sub-directory created inside projects directory.
 
