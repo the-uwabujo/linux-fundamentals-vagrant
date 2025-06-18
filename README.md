@@ -20,4 +20,5 @@ Vagrant uses SSH to log into the virtual machine.
 
 When you run:
 vagrant ssh
+You are login automatically without providing username or password.
 
