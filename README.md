@@ -37,17 +37,20 @@ This image shows the folder structure.
 
 **4. Manage File Permissions and Ownership**
 
-File created with default permission
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/f172d284-13f3-42da-af42-05f79b0c1a65" />
 
-File Permission Changed (chown)
+File created with default permission
+
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/9e9b4ff5-c2ed-4f42-98b6-44f2bff88a33" />
 
-File Permission Changed (chmod) user has full access "Read,write & execute"
+File Permission Changed (chown)
+
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/01095d4a-200f-4d3a-bf51-23a662b85978" />
+
+File Permission Changed (chmod) user has full access "Read,write & execute"
 
 **5. Install and Configure a Package**
 
