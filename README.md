@@ -41,6 +41,11 @@ File created with default permission
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/f172d284-13f3-42da-af42-05f79b0c1a65" />
 
+File Permission Changed (chown)
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/d16df8e5-9953-4737-a073-b037beab8c56" />
+
+
 
 
 
